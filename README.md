@@ -7,6 +7,15 @@ My handwritten summaries for lectures I attended during my Bachelor and Master s
   - Winterterm 2019/20, Prof. Stamatakis 
 - [Biologisch motivierte Robotersysteme](BiologischMotivierteRobotersysteme) (German)
   - Summerterm 2020, Dr. Rönnau
+- [Cognitive Systems](KognitiveSysteme.pdf) (German)
+  - Summerterm 2018, Prof. Dillman, Prof. Waibel
+- [Computer Engineering](TI.pdf) (German)
+  - Summerterm 2016 and Winterterm 2016/17
+
+- [Computergraphics](Computergrafik.pdf) (incomplete!, German)
+  - Winterterm 2018/19, Prof. Dachsbacher
+- [Database Systems](Datenbanksysteme.pdf) (German)
+  - Summerterm 2017, Prof. Böhm
 - [Deep Learning for Computer Vision](DeepLearningComputerVision) (German)
   - Summerterm 2020, Prof. Stiefelhagen 
 - [Distributed Computing](DistributedComputing) (English)
@@ -17,10 +26,31 @@ My handwritten summaries for lectures I attended during my Bachelor and Master s
   - Summerterm 2020, Prof. Spetzger
 - [Grundlagen der Biologie](BA-01) (German)
   - Winterterm 2020/21, Prof. Bastmeyer, Prof. Kämper, Prof. Nick
+- [Introduction in Computer Networks](Rechnernetze.pdf) (German)
+  - Summerterm 2018, Prof. Zitterbart
+- [Linear Algebra](LineareAlgebra.pdf) (German)
+  - Winterterm 2016/17 and Summerterm 2017, Prof. Leuzinger, Dr. Link
+- [Mechano-Informatics and Robotics](MechanoInformatik.pdf) (English)
+  - Winterterm 2018/19, Prof. Asfour
+- [Medical Robotics](RobMed.pdf) (German)
+  - Summerterm 2018
 - [Mensch-Maschine-Interaktion](MMI) (German)
   - Summerterm 2020, Prof. Beigl
+- [Numerical Mathematics](Numerik.pdf) (German)
+  - Summerterm 2017, Dr. Weiß
+- [Operating Systems](OperatingSystems.pdf) (German)
+  - Winterterm 2017/18, Prof. Reiser
+- [Parallel Computer Systems and Parallel Programming](Parallelrechner.pdf) (German)
+  - Summerterm 2019, Prof. Streit
+- [Programming Paradigms](ProPa.pdf) (Cheat-Sheets only, German)
+  - Winterterm 2017/18, Prof. Snelting
 - [Rechnerstrukturen](Rechnerstrukturen) (German)
   - Summerterm 2020, Prof. Karl
-- [Softwaretechnik 2](SWT2) (German)
+- [Robotics 1](Robotik.pdf) (German)
+  - Summerterm 2018, Prof. Asfour
+- [Software Engineering 1](SWT1.pdf) (German)
+  - [Design Patterns](SWT1_Entwurfsmuster.pdf)
+  - Summerterm 2017, Prof. Tichy
+- [Software Engineering 2](SWT2) (German)
   - [Design Patterns](SWT2_Entwurfsmuster)
   - Winterterm 2019/20, Prof. Reussner
