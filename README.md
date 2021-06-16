@@ -1,5 +1,5 @@
 # KIT Summaries
-My handwritten summaries for lectures I attended during my Master studies at KIT.
+My handwritten summaries for lectures I attended during my Bachelor and Master studies at KIT.
 
 - [Analysetechniken für große Datenbestände 1](AGD1) (German)
   - Winterterm 2019/20, Prof. Böhm
@@ -15,6 +15,8 @@ My handwritten summaries for lectures I attended during my Master studies at KIT
   - Summerterm 2020, Prof. Längle
 - [Gehirn und zentrales Nervensystem](GehirnZNS) (German)
   - Summerterm 2020, Prof. Spetzger
+- [Grundlagen der Biologie](BA-01) (German)
+  - Winterterm 2020/21, Prof. Bastmeyer, Prof. Kämper, Prof. Nick
 - [Mensch-Maschine-Interaktion](MMI) (German)
   - Summerterm 2020, Prof. Beigl
 - [Rechnerstrukturen](Rechnerstrukturen) (German)
