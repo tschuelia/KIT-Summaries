@@ -11,9 +11,10 @@ My handwritten summaries for lectures I attended during my Bachelor and Master s
   - Summerterm 2018, Prof. Dillman, Prof. Waibel
 - [Computer Engineering](TI.pdf) (German)
   - Summerterm 2016 and Winterterm 2016/17
-
 - [Computergraphics](Computergrafik.pdf) (incomplete!, German)
   - Winterterm 2018/19, Prof. Dachsbacher
+- [Computer Vision for Human Computer Interaction](CVHCI) (German)
+  - Winterterm 2020/21, Prof. Stiefelhagen
 - [Database Systems](Datenbanksysteme.pdf) (German)
   - Summerterm 2017, Prof. Böhm
 - [Deep Learning for Computer Vision](DeepLearningComputerVision) (German)
