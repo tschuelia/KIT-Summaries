@@ -25,18 +25,24 @@ My handwritten summaries for lectures I attended during my Bachelor and Master s
   - Summerterm 2020, Prof. Längle
 - [Gehirn und zentrales Nervensystem](GehirnZNS.pdf) (German)
   - Summerterm 2020, Prof. Spetzger
+- [Genetics](BA-04/Genetics.pdf) (German)
+  - Winterterm 2021/22, Prof. Kämper
 - [Grundlagen der Biologie](BA-01.pdf) (German)
   - Winterterm 2020/21, Prof. Bastmeyer, Prof. Kämper, Prof. Nick
 - [Introduction in Computer Networks](Rechnernetze.pdf) (German)
   - Summerterm 2018, Prof. Zitterbart
 - [Linear Algebra](LineareAlgebra.pdf) (German)
   - Winterterm 2016/17 and Summerterm 2017, Prof. Leuzinger, Dr. Link
+- [Machine learning for natural sciences](MLNaturalSciences.pdf)
+  - Summerterm 2021, Prof. Friederich
 - [Mechano-Informatics and Robotics](MechanoInformatik.pdf) (English)
   - Winterterm 2018/19, Prof. Asfour
 - [Medical Robotics](RobMed.pdf) (German)
   - Summerterm 2018
 - [Mensch-Maschine-Interaktion](MMI.pdf) (German)
   - Summerterm 2020, Prof. Beigl
+- [Molecular Biology](BA-04/MolecularBiology.pdf) (German)
+  - Winterterm 2021/22, Prof. Requena Sanchez
 - [Numerical Mathematics](Numerik.pdf) (German)
   - Summerterm 2017, Dr. Weiß
 - [Operating Systems](OperatingSystems.pdf) (German)
